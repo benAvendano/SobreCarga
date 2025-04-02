@@ -28,7 +28,7 @@ public class Persona {
         this.estatus= "Desactivado";
     }
 
-    // Constructor con nombre y edad
+    // Constructor con nombre, edad y estatus
     public Persona(String nombre, int edad, String estatus) {
         this.nombre = nombre;
         this.edad = edad;
