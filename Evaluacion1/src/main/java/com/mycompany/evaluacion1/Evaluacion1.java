@@ -13,7 +13,7 @@ public class Evaluacion1 {
     public static void main(String[] args) {
         
         // Crear objetos usando diferentes constructores sobrecargados
-        Persona persona1 = new Persona("pepe", 25,"Activo"); // Constructor con nombre y edad
+        Persona persona1 = new Persona("pepe", 25,"Activo"); // Constructor con nombre, edad y estado
         Persona persona2 = new Persona("goku"); // Constructor con solo nombre
         Persona persona3 = new Persona(); // Constructor por defecto
 
